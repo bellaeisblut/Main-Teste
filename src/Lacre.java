@@ -7,7 +7,7 @@ public class Lacre {
         
         try (Scanner leia = new Scanner(System.in)) {
 
-            
+            int trem;
         }
     }
 
